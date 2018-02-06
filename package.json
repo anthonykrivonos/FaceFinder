@@ -1,0 +1,15 @@
+{
+  "name": "facefinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Krivonos",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^5.1.0",
+    "request": "^2.83.0"
+  }
+}
