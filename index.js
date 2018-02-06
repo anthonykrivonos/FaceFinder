@@ -13,7 +13,7 @@ const request = require('request');
 const queryString = require('query-string');
 
 // Microsoft Azure API Key and FACE_API_ENDPOINT
-const API_KEY = "bc49ade9306a4ee4a908fea4a9c59b16";
+const API_KEY = "";
 const FACE_API_ENDPOINT = "https://westcentralus.api.cognitive.microsoft.com/face/v1.0";
 
 //
